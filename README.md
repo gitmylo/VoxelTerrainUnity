@@ -3,4 +3,4 @@ a monobehavior with 2 other scripts that allow you to generate voxel based terra
 
 # please read
 licensed under MIT License
-please credit the author (Mylo) by including a link to [their github]: https://github.com/gitmylo/
+please credit the author (Mylo) by including a link to [their github](https://github.com/gitmylo/)
